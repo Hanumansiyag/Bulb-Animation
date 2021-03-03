@@ -1,0 +1,30 @@
+h1{
+	font-size: 30px;
+	margin-top: 5%;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.lightapp{
+	width: 100%;
+	height: 60vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+figcaption{
+	text-align: center;
+}
+.button{
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+p{
+	font-size: 30px;
+	font-weight: bold;
+	color: #999
+}
